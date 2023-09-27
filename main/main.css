@@ -1,0 +1,42 @@
+.container {
+    width: 1200px;
+}
+
+.header  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-ul {
+    display: flex;
+}
+
+.nav-li {
+    list-style: none;
+    padding-left: 40px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #1f1534;
+    font-size: 14px;
+}
+
+.hero-flex {
+    display: flex;
+}
+
+.hero-img {
+    margin-left: 80px;
+}
+
+.hero-h1 {
+    font-size: 48px;
+    color: black;
+}
+
+.hero-text {
+    font-size: 21px;
+    color: #7D7987;
+}
